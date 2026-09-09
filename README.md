@@ -9,7 +9,7 @@ A simple and customizable chatbot built with the Groq API. This project provides
 - Connects to Groq API for smart responses
 - Easy setup and integration
 - Customizable UI
-- 100% HTML-based (no frameworks required)
+- 100% HTML-based (no frameworks required) 
 - Demo page included
 
 ## Getting Started
@@ -80,6 +80,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or feedback, open an issue or contact [deepakrajjs2909@gmail.com].
+feel free to contact me
 
 ---
 
